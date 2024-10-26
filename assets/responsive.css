@@ -1,0 +1,28 @@
+/* PC */
+@media (min-width: 1024px) {
+
+}
+
+/* Tablet */
+@media (max-width: 1023px) and (min-width: 740px) {
+    .content .home {
+        height: 500px;
+    }
+    .buy .card button {
+        padding: 14px 20px;
+    }
+    .contact .contact-area form input[type="email"],input[type="text"] {
+        padding: 14px 20px;
+    }
+    .contact .contact-area form input[type="submit"] {
+        padding: 14px 20px;
+    }
+
+
+}
+
+/* Mobile */
+@media (max-width: 749px) {
+    
+    
+}
